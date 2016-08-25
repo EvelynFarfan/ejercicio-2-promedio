@@ -1,4 +1,4 @@
-# ejercicio-dos
+# Ejercicio 2 / Promedio
 ### Calcula el promedio de tres números
 
 1. Inicio
